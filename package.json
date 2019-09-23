@@ -1,0 +1,14 @@
+{
+  "name": "somyanath-mohanty-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio website of somyanath mohanty",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Somyanath Mohanty",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
